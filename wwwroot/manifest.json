@@ -1,0 +1,12 @@
+{
+  "name": "Gestion de Eventos",
+  "short_name": "Eventos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#212832",
+  "description": "Descripci�n de tu PWA",
+  "icons": [
+   
+  ]
+}
